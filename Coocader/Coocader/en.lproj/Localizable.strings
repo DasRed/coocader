@@ -1,0 +1,60 @@
+"Endless Game" = "Endless Game";
+"Level Modus" = "Level Mode";
+"Game Center" = "Game Center";
+"Werbung entfernen" = "Remove Ad";
+"Einkäufe wiederherstellen" = "Restore Purchases";
+
+"Bitte aktiviere In-App Käufe in den Einstellungen" = "Please enable In App Purchase in Settings";
+"In-App Käufe sind deaktiviert" = "In-App Purchases not enabled";
+"Okay" = "Okay";
+
+"Punkte" = "Points";
+
+"difficult-0" = "Scaredy Cat";
+"difficult-1" = "Easy";
+"difficult-2" = "Normal";
+"difficult-3" = "Heavy";
+"difficult-4" = "Superhero";
+
+"Ja" = "Yes";
+"Nein" = "No";
+
+"Du hast gewonnen!" = "YOU WON!";
+"Du hast verloren!" = "You lost!";
+"Möchtest du noch einmal spielen?" = "Do you want play again?";
+
+"Möchtest du wirklich aufhören zu spielen?" = "You sure you want to stop playing?";
+"Deine Punkte werden nicht gespeichert!" = "Your scores will not be saved!";
+"Der Levelfortschritt wird nicht gespeichert!" = "The level progress will not be saved!";
+"Möchtest du das nächste Level spielen" = "Do you want to play the next level?";
+"Alle Level in diesem Levelpack sind abgeschlossen" = "All Level to Level Pack are finished!";
+
+"reward-0" = "Waiting";
+"reward-1" = "Hurried";
+
+"reward-2" = "Slower";
+"reward-3" = "Faster";
+
+"reward-4" = "Fear";
+"reward-5" = "Braveness";
+
+"reward-6" = "Line Destroyer";
+"reward-7" = "Bomb";
+"reward-8" = "Deathline";
+"reward-8-value" = "Deathline for %.01f seconds";
+"reward-9" = "Spectral Shot";
+"reward-9-value" = "Spectral Shot for %.01f seconds";
+
+"Kaufen" = "Buy";
+"Spielen" = "Play";
+
+"Diese Levelpakete müssen abgeschloßen werden:" = "This level packages must be completed:";
+"Diese Level müssen abgeschloßen werden:" = "This level must be completed:";
+
+"Level" = "Level";
+"weitere X Level verfügbar" = "more %i Level available";
+"x von Y Levels abgeschlossen" = "completed %i of %i Levels";
+
+"Die Zeit ist abgelaufen." = "The time has expired.";
+"Möchtest du ohne Zeitlimit weiterspielen?" = "Do you want to continue playing, press buy?";
+"Spiel beenden" = "Exit Game";

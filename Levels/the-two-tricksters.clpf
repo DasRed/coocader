@@ -1,0 +1,77 @@
+{
+	"version": 1.0,
+	"id": "the_two_tricksters",
+	"storeIdentifier": "levelpack.the_two_tricksters",
+	"achievementIdentifier": "levelpack.the_two_tricksters",
+	"name": {
+        "en": "The Two Tricksters",
+        "de": "Die zwei Trickser",
+        "fr": "Les deux filous",
+        "zh": "这两个骗子",
+        "zh-Hans": "这两个骗子",
+        "zh-Hant": "這兩個騙子",
+        "ko": "두 사기꾼",
+        "ja": "2詐欺師",
+        "ar": "والمحتالون اثنين"
+    },
+	"description": {
+        "en": "Two blocks which try to trick you out.",
+        "de": "Zwei Blöcke, welche versuchen werden,\ndich auszutricksen.",
+        "fr": "Deux blocs, qui vont essayer\nvous déjouer.",
+        "zh": "两个街区，它会尝试\n智取你。",
+        "zh-Hans": "两个街区，它会尝试\n智取你。",
+        "zh-Hant": "兩個街區，它會嘗試\n智取你。",
+        "ko": "두 블록, 시도 할 것이다\n당신이 현명.",
+        "ja": "しようとする二つのブロック、\nあなたの裏をかきます。",
+        "ar": "كتلتين، الذي سيحاول7\nاغلب لك."
+    },
+    "dateCreation": "2016-01-02 00:00:00+00:00",
+
+	"xDelta": -1.0,
+
+	"levels": [
+		{"require": "p", "difficulty": 0, "matrix": [	{"x": 5.5, "y": 3.0, "color": 2, "width": 0, "face": 2},
+														{"x": 5.5, "y": 25.0, "color": 2, "width": 0, "face": 2}]},
+		{"require": "p", "difficulty": 1, "matrix": [	{"x": 5.5, "y": 3.0, "color": 4, "width": 0, "face": 4},
+														{"x": 4.5, "y": 25.0, "color": 4, "width": 0, "face": 4}]},
+		{"require": "p", "difficulty": 2, "matrix": [	{"x": 5.5, "y": 3.0, "color": 0, "width": 0, "face": 5},
+														{"x": 6.5, "y": 25.0, "color": 0, "width": 0, "face": 5}]},
+		{"require": "p", "difficulty": 3, "matrix": [	{"x": 5.5, "y": 3.0, "color": 3, "width": 0, "face": 6},
+														{"x": 3.5, "y": 25.0, "color": 3, "width": 0, "face": 6}]},
+		{"require": "p", "difficulty": 4, "matrix": [	{"x": 5.5, "y": 3.0, "color": 1, "width": 0, "face": 0},
+														{"x": 7.5, "y": 25.0, "color": 1, "width": 0, "face": 0}]},
+
+		{"require": "p", "difficulty": 0, "matrix": [	{"x": 5.5, "y": 3.0, "color": 2, "width": 0, "face": 2, "countOfColorSwitch": 2, "colorsForColorSwitch": [2, 2, 2]},
+														{"x": 5.5, "y": 25.0, "color": 2, "width": 0, "face": 2, "countOfColorSwitch": 2, "colorsForColorSwitch": [2, 2, 2]}]},
+		{"require": "p", "difficulty": 1, "matrix": [	{"x": 5.5, "y": 3.0, "color": 4, "width": 0, "face": 4, "countOfColorSwitch": 4, "colorsForColorSwitch": [4, 4, 4, 4, 4]},
+														{"x": 1.0, "y": 25.0, "color": 4, "width": 0, "face": 4, "countOfColorSwitch": 4, "colorsForColorSwitch": [4, 4, 4, 4, 4]}]},
+		{"require": "p", "difficulty": 2, "matrix": [	{"x": 5.5, "y": 3.0, "color": 0, "width": 0, "face": 5, "countOfColorSwitch": 6, "colorsForColorSwitch": [0, 0, 0, 0, 0, 0, 0]},
+														{"x": 10.0, "y": 25.0, "color": 0, "width": 0, "face": 5, "countOfColorSwitch": 6, "colorsForColorSwitch": [0, 0, 0, 0, 0, 0, 0]}]},
+		{"require": "p", "difficulty": 3, "matrix": [	{"x": 5.5, "y": 3.0, "color": 3, "width": 0, "face": 6, "countOfColorSwitch": 8, "colorsForColorSwitch": [3, 3, 3, 3, 3, 3, 3, 3, 3]},
+														{"x": 5.0, "y": 25.0, "color": 3, "width": 0, "face": 6, "countOfColorSwitch": 8, "colorsForColorSwitch": [3, 3, 3, 3, 3, 3, 3, 3, 3]}]},
+		{"require": "p", "difficulty": 4, "matrix": [	{"x": 5.5, "y": 3.0, "color": 1, "width": 0, "face": 0, "countOfColorSwitch": 10, "colorsForColorSwitch": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]},
+														{"x": 6.0, "y": 25.0, "color": 1, "width": 0, "face": 0, "countOfColorSwitch": 10, "colorsForColorSwitch": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]}]},
+
+		{"require": "p", "difficulty": 0, "matrix": [	{"x": 5.5, "y": 3.0, "color": 2, "width": 0, "face": 2, "gunnerInterval": 3.00},
+														{"x": 5.5, "y": 25.0, "color": 2, "width": 0, "face": 2, "gunnerInterval": 3.00}]},
+		{"require": "p", "difficulty": 1, "matrix": [	{"x": 5.5, "y": 3.0, "color": 4, "width": 0, "face": 4, "gunnerInterval": 2.75},
+														{"x": 4.5, "y": 25.0, "color": 4, "width": 0, "face": 4, "gunnerInterval": 2.75}]},
+		{"require": "p", "difficulty": 2, "matrix": [	{"x": 5.5, "y": 3.0, "color": 0, "width": 0, "face": 5, "gunnerInterval": 2.50},
+														{"x": 6.5, "y": 25.0, "color": 0, "width": 0, "face": 5, "gunnerInterval": 2.50}]},
+		{"require": "p", "difficulty": 3, "matrix": [	{"x": 5.5, "y": 3.0, "color": 3, "width": 0, "face": 6, "gunnerInterval": 2.25},
+														{"x": 3.5, "y": 25.0, "color": 3, "width": 0, "face": 6, "gunnerInterval": 2.25}]},
+		{"require": "p", "difficulty": 4, "matrix": [	{"x": 5.5, "y": 3.0, "color": 1, "width": 0, "face": 0, "gunnerInterval": 2.00},
+														{"x": 7.5, "y": 25.0, "color": 1, "width": 0, "face": 0, "gunnerInterval": 2.00}]},
+
+		{"require": "p", "difficulty": 0, "matrix": [	{"x": 5.5, "y": 3.0, "color": 2, "width": 0, "face": 2, "gunnerInterval": 3.00, "countOfColorSwitch": 2, "colorsForColorSwitch": [2, 2, 2]},
+														{"x": 5.5, "y": 25.0, "color": 2, "width": 0, "face": 2, "gunnerInterval": 3.00, "countOfColorSwitch": 2, "colorsForColorSwitch": [2, 2, 2]}]},
+		{"require": "p", "difficulty": 1, "matrix": [	{"x": 5.5, "y": 3.0, "color": 4, "width": 0, "face": 4, "gunnerInterval": 2.75, "countOfColorSwitch": 4, "colorsForColorSwitch": [4, 4, 4, 4, 4]},
+														{"x": 5.0, "y": 25.0, "color": 4, "width": 0, "face": 4, "gunnerInterval": 2.75, "countOfColorSwitch": 4, "colorsForColorSwitch": [4, 4, 4, 4, 4]}]},
+		{"require": "p", "difficulty": 2, "matrix": [	{"x": 5.5, "y": 3.0, "color": 0, "width": 0, "face": 5, "gunnerInterval": 2.50, "countOfColorSwitch": 6, "colorsForColorSwitch": [0, 0, 0, 0, 0, 0, 0]},
+														{"x": 6.0, "y": 25.0, "color": 0, "width": 0, "face": 5, "gunnerInterval": 2.50, "countOfColorSwitch": 6, "colorsForColorSwitch": [0, 0, 0, 0, 0, 0, 0]}]},
+		{"require": "p", "difficulty": 3, "matrix": [	{"x": 5.5, "y": 3.0, "color": 3, "width": 0, "face": 6, "gunnerInterval": 2.25, "countOfColorSwitch": 8, "colorsForColorSwitch": [3, 3, 3, 3, 3, 3, 3, 3, 3]},
+														{"x": 4.0, "y": 25.0, "color": 3, "width": 0, "face": 6, "gunnerInterval": 2.25, "countOfColorSwitch": 8, "colorsForColorSwitch": [3, 3, 3, 3, 3, 3, 3, 3, 3]}]},
+		{"require": "p", "difficulty": 4, "matrix": [	{"x": 5.5, "y": 3.0, "color": 1, "width": 0, "face": 0, "gunnerInterval": 2.00, "countOfColorSwitch": 10, "colorsForColorSwitch": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]},
+														{"x": 5.0, "y": 25.0, "color": 1, "width": 0, "face": 0, "gunnerInterval": 2.00, "countOfColorSwitch": 10, "colorsForColorSwitch": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]}]}
+	]
+}

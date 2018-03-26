@@ -1,0 +1,19 @@
+{
+	"version": 1.0,
+	"debug": true,
+	"id": "test",
+	"name": {
+        "en": "Test"
+    },
+	"description": {
+        "en": ""
+    },
+    "dateCreation": "2015-01-01 00:00:00+00:00",
+
+	"levels": [
+		{"require": "p", "difficulty": 0, "matrix": [	{"x": 4.5, "y": 3.0, "color": 2, "width": 0, "face": 2, "reward": 0},
+														{"x": 4.5, "y": 5.0, "color": 2, "width": 0, "face": 2}
+													]
+		}
+	]
+}

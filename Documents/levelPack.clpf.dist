@@ -1,0 +1,45 @@
+{
+	"version": 1.0,
+	"id": "String",
+	"debug": false,						(optional, default: false, will only be shown if compiled with debug)
+	"name": {"en": "String"},
+	"description": {"en": "String"},	(optional)
+	"storeIdentifier": "String",		(optional, Note: for request this string will prepended: com.marco.starker.coocader.)
+	"achievementIdentifier": "String",	(optional, Note: for request this string will prepended: com.marco.starker.coocader.)
+	"require": ["String"],				(optional, default: none, 
+											values: 
+												- ["String"]
+												- "String" for level pack id
+										)
+
+	"xDelta": 0.0,						(optional, default: 0.0)
+	"yDelta": 0.0,						(optional, default: 0.0)
+
+	"levels": [
+		{
+			"id": "String",				(optional, default: index value in array + 1)
+			"name": {"en": "String"},	(optional, default: "Level".localized + " " + level.id)
+			"difficulty": 0...4,				(optional, default: 2)
+			"require": ["String"],				(optional, default: none, 
+													values: 
+														- ["String"]
+														- "p" for previous level in list
+														- "P" for previous level in list
+														- "String" for level id
+												)
+			"matrix": [
+				{
+					"x": 1.0...10.0,	(optional, default: 1.0)
+					"y": 1.0...10.0,	(optional, default: 1.0)
+					"color": 0...7,		(optional, default: 0)
+					"width": 0...4,		(optional, default: 0)
+					"face": 0...7,		(optional, default: 4)
+					"gunnerInterval": 0.0001,		 	 	(optional, this defines isGunner, default: isGunner = false)
+					"countOfColorSwitch": 0,	 			(optional, default: 0)
+					"colorsForColorSwitch": [0...7, ...],	(optional, default: [])	
+					"reward": 0...9							(optional, default: null)
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,69 @@
+{
+	"version": 1.0,
+	"id": "once_series_1",
+	"storeIdentifier": "levelpack.once_series_1",
+	"achievementIdentifier": "levelpack.once_series_1",
+	"name": {
+        "en": "The Once",
+        "de": "Der Eine",
+        "fr": "Le One",
+        "zh": "壹",
+        "zh-Hans": "壹",
+        "zh-Hant": "壹",
+        "ko": "한",
+        "ja": "の",
+        "ar": "واحد"
+    },
+	"description": {
+        "en": "One block and you. Can you defeat them?",
+        "de": "Ein Block und du. Kannst du ihn besiegen?",
+        "fr": "Un bloc et vous. Pouvez-vous le vaincre?",
+        "zh": "块和你。你能打败他吗？",
+        "zh-Hans": "块和你。你能打败他吗？",
+        "zh-Hant": "塊和你。你能打敗他嗎？",
+        "ko": "블록 당신은. 당신은 그를 이길 수 있습니까?",
+        "ja": "ブロックとあなた。あなたは彼を倒すことはできますか？",
+        "ar": "كتلة ولك. هل يمكن إلحاق الهزيمة به؟"
+    },
+    "dateCreation": "2016-01-03 01:00:00+00:00",
+
+	"xDelta": -1.0,
+
+	"levels": [
+		{"require": "p", "difficulty": 0, "matrix": [{"x": 5.5, "y": 3.0, "color": 2, "width": 0, "face": 2}]},
+		{"require": "p", "difficulty": 1, "matrix": [{"x": 5.5, "y": 3.0, "color": 4, "width": 0, "face": 4}]},
+		{"require": "p", "difficulty": 2, "matrix": [{"x": 5.5, "y": 3.0, "color": 0, "width": 0, "face": 5}]},
+		{"require": "p", "difficulty": 3, "matrix": [{"x": 5.5, "y": 3.0, "color": 3, "width": 0, "face": 6}]},
+		{"require": "p", "difficulty": 4, "matrix": [{"x": 5.5, "y": 3.0, "color": 1, "width": 0, "face": 0}]},
+
+		{"require": "p", "difficulty": 0, "matrix": [{"x": 5.5, "y": 3.0, "color": 2, "width": 0, "face": 2, "countOfColorSwitch": 2, "colorsForColorSwitch": [2, 2, 2]}]},
+		{"require": "p", "difficulty": 1, "matrix": [{"x": 5.5, "y": 3.0, "color": 4, "width": 0, "face": 4, "countOfColorSwitch": 4, "colorsForColorSwitch": [4, 4, 4, 4, 4]}]},
+		{"require": "p", "difficulty": 2, "matrix": [{"x": 5.5, "y": 3.0, "color": 0, "width": 0, "face": 5, "countOfColorSwitch": 6, "colorsForColorSwitch": [0, 0, 0, 0, 0, 0, 0]}]},
+		{"require": "p", "difficulty": 3, "matrix": [{"x": 5.5, "y": 3.0, "color": 3, "width": 0, "face": 6, "countOfColorSwitch": 8, "colorsForColorSwitch": [3, 3, 3, 3, 3, 3, 3, 3, 3]}]},
+		{"require": "p", "difficulty": 4, "matrix": [{"x": 5.5, "y": 3.0, "color": 1, "width": 0, "face": 0, "countOfColorSwitch": 10, "colorsForColorSwitch": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]}]},
+
+		{"require": "p", "difficulty": 0, "matrix": [{"x": 5.5, "y": 3.0, "color": 2, "width": 0, "face": 2, "countOfColorSwitch": 2}]},
+		{"require": "p", "difficulty": 1, "matrix": [{"x": 5.5, "y": 3.0, "color": 4, "width": 0, "face": 4, "countOfColorSwitch": 4}]},
+		{"require": "p", "difficulty": 2, "matrix": [{"x": 5.5, "y": 3.0, "color": 0, "width": 0, "face": 5, "countOfColorSwitch": 6}]},
+		{"require": "p", "difficulty": 3, "matrix": [{"x": 5.5, "y": 3.0, "color": 3, "width": 0, "face": 6, "countOfColorSwitch": 8}]},
+		{"require": "p", "difficulty": 4, "matrix": [{"x": 5.5, "y": 3.0, "color": 1, "width": 0, "face": 0, "countOfColorSwitch": 10}]},
+
+		{"require": "p", "difficulty": 0, "matrix": [{"x": 5.5, "y": 3.0, "color": 2, "width": 0, "face": 2, "gunnerInterval": 3.00}]},
+		{"require": "p", "difficulty": 1, "matrix": [{"x": 5.5, "y": 3.0, "color": 4, "width": 0, "face": 4, "gunnerInterval": 2.75}]},
+		{"require": "p", "difficulty": 2, "matrix": [{"x": 5.5, "y": 3.0, "color": 0, "width": 0, "face": 5, "gunnerInterval": 2.50}]},
+		{"require": "p", "difficulty": 3, "matrix": [{"x": 5.5, "y": 3.0, "color": 3, "width": 0, "face": 6, "gunnerInterval": 2.25}]},
+		{"require": "p", "difficulty": 4, "matrix": [{"x": 5.5, "y": 3.0, "color": 1, "width": 0, "face": 0, "gunnerInterval": 2.00}]},
+
+		{"require": "p", "difficulty": 0, "matrix": [{"x": 5.5, "y": 3.0, "color": 2, "width": 0, "face": 2, "gunnerInterval": 3.00, "countOfColorSwitch": 2, "colorsForColorSwitch": [2, 2, 2]}]},
+		{"require": "p", "difficulty": 1, "matrix": [{"x": 5.5, "y": 3.0, "color": 4, "width": 0, "face": 4, "gunnerInterval": 2.75, "countOfColorSwitch": 4, "colorsForColorSwitch": [4, 4, 4, 4, 4]}]},
+		{"require": "p", "difficulty": 2, "matrix": [{"x": 5.5, "y": 3.0, "color": 0, "width": 0, "face": 5, "gunnerInterval": 2.50, "countOfColorSwitch": 6, "colorsForColorSwitch": [0, 0, 0, 0, 0, 0, 0]}]},
+		{"require": "p", "difficulty": 3, "matrix": [{"x": 5.5, "y": 3.0, "color": 3, "width": 0, "face": 6, "gunnerInterval": 2.25, "countOfColorSwitch": 8, "colorsForColorSwitch": [3, 3, 3, 3, 3, 3, 3, 3, 3]}]},
+		{"require": "p", "difficulty": 4, "matrix": [{"x": 5.5, "y": 3.0, "color": 1, "width": 0, "face": 0, "gunnerInterval": 2.00, "countOfColorSwitch": 10, "colorsForColorSwitch": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]}]},
+
+		{"require": "p", "difficulty": 0, "matrix": [{"x": 5.5, "y": 3.0, "color": 2, "width": 0, "face": 2, "gunnerInterval": 3.00, "countOfColorSwitch": 2}]},
+		{"require": "p", "difficulty": 1, "matrix": [{"x": 5.5, "y": 3.0, "color": 4, "width": 0, "face": 4, "gunnerInterval": 2.75, "countOfColorSwitch": 4}]},
+		{"require": "p", "difficulty": 2, "matrix": [{"x": 5.5, "y": 3.0, "color": 0, "width": 0, "face": 5, "gunnerInterval": 2.50, "countOfColorSwitch": 6}]},
+		{"require": "p", "difficulty": 3, "matrix": [{"x": 5.5, "y": 3.0, "color": 3, "width": 0, "face": 6, "gunnerInterval": 2.25, "countOfColorSwitch": 8}]},
+		{"require": "p", "difficulty": 4, "matrix": [{"x": 5.5, "y": 3.0, "color": 1, "width": 0, "face": 0, "gunnerInterval": 2.00, "countOfColorSwitch": 10}]}
+	]
+}

@@ -1,0 +1,1 @@
+[color-index]-[animation-frame-position].png

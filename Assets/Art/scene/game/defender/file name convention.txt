@@ -1,0 +1,5 @@
+[color-index]-[position].png
+
+position: 0 ... moving left
+position: 1 ... standing still
+position: 2 ... moving right 

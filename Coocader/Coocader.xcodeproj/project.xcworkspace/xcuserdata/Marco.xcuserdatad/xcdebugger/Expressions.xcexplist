@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "Setting.lastSelectedLevels.getter:Setting.swift">
+      </ContextState>
+      <ContextState
+         contextName = "EndlessPlayScene.startTheGame() -&gt; ():EndlessPlayScene.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "NSLog(jsonFilePath.absoluteString)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Matrix.appendLine([Int : Block]) -&gt; Matrix:Matrix.swift">
+      </ContextState>
+      <ContextState
+         contextName = "IconButtonNode.init(SKNode, String, CGPointPsp, () -&gt; ()) -&gt; IconButtonNode:IconButtonNode.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.position">
+            </PersistentString>
+            <PersistentString
+               value = "self.size">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static EGC.(completionCachingAchievements in _5440CA752876EDE16835EB3E2EBC56F6)([AnyObject]?) -&gt; ():EasyGameCenter.swift">
+      </ContextState>
+      <ContextState
+         contextName = "Block.init(maxWidth : Int) -&gt; Block:Block.swift">
+      </ContextState>
+      <ContextState
+         contextName = "Block.init(face : Block.Face, width : Block.Width, color : Block.Color, x : Double, y : Double, isGunner : Bool, countOfColorSwitch : Int, reward : Block.Reward?) -&gt; Block:Block.swift">
+      </ContextState>
+      <ContextState
+         contextName = "CGPoint.init(pspX : Int, pspY : Int) -&gt; CGPoint:CGPoint.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ButtonNode.init(SKNode, String, CGPointPsp, () -&gt; ()) -&gt; ButtonNode:ButtonNode.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.size">
+            </PersistentString>
+            <PersistentString
+               value = "self.position.y">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "BlockNode.(init(BlockNode.Type) -&gt; (parent : BlockContainerNode, position : CGPoint, block : Block) -&gt; BlockNode).(closure #1):BlockNode.swift">
+      </ContextState>
+      <ContextState
+         contextName = "LevelPack.init(json : [String : AnyObject]) -&gt; LevelPack?:LevelPack.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "(json[&quot;levels&quot;] as? [[String: AnyObject]])">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LevelPack.init(file : String) -&gt; LevelPack?:LevelPack.swift">
+      </ContextState>
+      <ContextState
+         contextName = "Store.productsRequest(SKProductsRequest, didReceiveResponse : SKProductsResponse) -&gt; ():Store.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "response.invalidProductIdentifiers">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LevelNode.init(parent : SKNode, index : Int, level : LevelPack.Level) -&gt; LevelNode:LevelNode.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "max(0, 15 - (maxY - minY))">
+            </PersistentString>
+            <PersistentString
+               value = "maxY - minY">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PlayScene.(didBeginContactBetweenBlockAndShot in _21C075523FF656D99053F988A5E09643)(BlockNode, shotNode : ShotNode) -&gt; ():PlayScene.swift">
+      </ContextState>
+      <ContextState
+         contextName = "Block.Size.init(block : Block) -&gt; Block.Size:BlockSize.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Block.Size.WIDTH * (block.width.toInt() + 1)">
+            </PersistentString>
+            <PersistentString
+               value = "block.width.toInt()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LevelNode.init(parent : SKNode, level : LevelPack.Level) -&gt; LevelNode:LevelNode.swift">
+      </ContextState>
+      <ContextState
+         contextName = "Matrix.create(LevelPack.Level) -&gt; ():Matrix.swift">
+      </ContextState>
+      <ContextState
+         contextName = "Matrix.append(Block, x : Int, y : Int) -&gt; ():Matrix.swift">
+      </ContextState>
+      <ContextState
+         contextName = "GameSetting.RandomSet.calc() -&gt; protocol&lt;&gt;:GameSettingRandomSet.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "0.random(self.values.count)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AudioPlayer.(createPlayer in _8BDF431759CBEBA37A0EF5F3B9998DFA)(String) -&gt; AVAudioPlayer?:AudioPlayer.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "error.debugDescription">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Block.switchColor() -&gt; Block:Block.swift">
+      </ContextState>
+      <ContextState
+         contextName = "Setting.lastSelectedLevels.setter:Setting.swift">
+      </ContextState>
+      <ContextState
+         contextName = "Store.get(Store.Product.Identifier) -&gt; Store.Product!:Store.swift">
+      </ContextState>
+      <ContextState
+         contextName = "Block.Position.node.getter:BlockPosition.swift">
+      </ContextState>
+      <ContextState
+         contextName = "LevelPackHandler.((loadFromDisc in _40FBE65D7DCFBE76F3BA6147A9CBE1FF)(LevelPackHandler) -&gt; () -&gt; ()).(closure #1):LevelPackHandler.swift">
+      </ContextState>
+      <ContextState
+         contextName = "LevelPackSelectScene.createNodes() -&gt; ():LevelPackSelectScene.swift">
+      </ContextState>
+      <ContextState
+         contextName = "GiftNode.testIfNodeIsOutOfScreen() -&gt; Bool:GiftNode.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "parent.intersectsNode(self)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GameHeaderNode.init(parent : SKNode) -&gt; GameHeaderNode:GameHeaderNode.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.texture">
+            </PersistentString>
+            <PersistentString
+               value = "self.size">
+            </PersistentString>
+            <PersistentString
+               value = "self.texture.size">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "EGC.((loginPlayerToGameCenter in _5440CA752876EDE16835EB3E2EBC56F6)(EGC) -&gt; () -&gt; ()).(closure #1):EasyGameCenter.swift">
+      </ContextState>
+      <ContextState
+         contextName = "LevelPackSelectScene.touchesMoved(Set&lt;UITouch&gt;, withEvent : UIEvent?) -&gt; ():LevelPackSelectScene.swift">
+      </ContextState>
+      <ContextState
+         contextName = "Matrix.Point.init(Int, Int) -&gt; Matrix.Point:MatrixPoint.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ShotNode.testIfNodeIsOutOfScreen() -&gt; Bool:ShotNode.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.parent">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LabelNode.(drawText in _044166EE4D05B522732878EFF88CBFD1)() -&gt; ():LabelNode.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "label.frame.size.width + 1.0 * self.lineWidth">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "BlockGunnerNode.init(parent : BlockNode, presentationMode : Bool) -&gt; BlockGunnerNode:BlockGunnerNode.swift">
+      </ContextState>
+      <ContextState
+         contextName = "LevelPack.Level.nextPlayable.getter:LevelPackLevel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "levels[index]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "IconButtonNode.setup(SKNode, String, CGPoint, () -&gt; ()) -&gt; ():IconButtonNode.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.position">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static EGC.reportAchievement(progress : Double, achievementIdentifier : String, showBannnerIfCompleted : Bool, addToExisting : Bool) -&gt; ():EasyGameCenter.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "achievementIdentifier == &quot;com.marco.starker.coocader.levelpack.the_two_tricksters&quot;">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AdHandler.storeProductWasBuyed(Event) -&gt; protocol&lt;&gt;?:AdHandler.swift">
+      </ContextState>
+      <ContextState
+         contextName = "EGC.authenticationChanged() -&gt; ():EasyGameCenter.swift">
+      </ContextState>
+      <ContextState
+         contextName = "static DBLevel.(DataStructure in _30AAA9B1BFBEC41197027088BADFC7F8).createByManagedObject(NSManagedObject) -&gt; DataStructureProtocol:DBLevel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "data.valueForKey(&quot;levelId&quot;)">
+            </PersistentString>
+            <PersistentString
+               value = "data.valueForKey(&quot;levelPackId&quot;)">
+            </PersistentString>
+            <PersistentString
+               value = "data.valueForKey(&quot;completed&quot;)">
+            </PersistentString>
+            <PersistentString
+               value = "data.valueForKey(&quot;dateCompleted&quot;) ">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "BlockNode.init(SKNode, CGPoint, BlockNode.Style) -&gt; BlockNode:BlockNode.swift">
+      </ContextState>
+      <ContextState
+         contextName = "PlayScene.didBeginContact(SKPhysicsContact) -&gt; ():PlayScene.swift">
+      </ContextState>
+      <ContextState
+         contextName = "Block.TextureConfig.texture(Block, frame : String) -&gt; SKTexture:BlockTextureConfig.swift">
+      </ContextState>
+      <ContextState
+         contextName = "LevelPack.Level.(matrix.getter).(closure #1):LevelPackLevel.swift">
+      </ContextState>
+      <ContextState
+         contextName = "LevelPackSelectScene.didMoveToView(SKView) -&gt; ():LevelPackSelectScene.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.levelPackContainer.position.x">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LaserPointerNode.createTexture() -&gt; SKTexture:LaserPointerNode.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.textureColors[color]!.size()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GameButtonNode.init(parent : SKNode, side : GameButtonNode.Side, overlayImage : String) -&gt; GameButtonNode:GameButtonNode.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.position">
+            </PersistentString>
+            <PersistentString
+               value = "parent.frame.size.width">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ButtonNode.updateDesignDependencies() -&gt; ButtonNode:ButtonNode.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.texture!">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "EventManager.trigger(String, protocol&lt;&gt;?) -&gt; protocol&lt;&gt;?:EventManager.swift">
+      </ContextState>
+      <ContextState
+         contextName = "DBLevel.isLevelCompleted(LevelPack.Level) -&gt; Bool:DBLevel.swift">
+      </ContextState>
+      <ContextState
+         contextName = "GunnerShotNode.init(parent : BlockGunnerNode, shotColor : Block.Color) -&gt; GunnerShotNode:GunnerShotNode.swift">
+      </ContextState>
+      <ContextState
+         contextName = "BaseScene.appendSettingButtons(Bool) -&gt; ():BaseScene.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.size.height - 50.0">
+            </PersistentString>
+            <PersistentString
+               value = "self.size.height">
+            </PersistentString>
+            <PersistentString
+               value = "AdHandler.BANNER_HEIGHT">
+            </PersistentString>
+            <PersistentString
+               value = "self.setting.adEnabled">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LevelPackNode.init(parent : SKNode, index : Int, levelPack : LevelPack) -&gt; LevelPackNode:LevelPackNode.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "CGFloat(Float(parent.frame.size.width) / Float(2.0) + Float(index) * Float(LevelPackNode.POSITION_X_DELTA))">
+            </PersistentString>
+            <PersistentString
+               value = "self.position.x">
+            </PersistentString>
+            <PersistentString
+               value = "self.position.y">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LevelPack.init(json : NSDictionary) -&gt; LevelPack?:LevelPack.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "json[&quot;version&quot;] as? NSFloat">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static DBLevel.(DataStructure in _30AAA9B1BFBEC41197027088BADFC7F8).createByManagedObject(NSManagedObject) -&gt; DataStructureProtocol?:DBLevel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "data.entity.propertiesByName">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LevelPack.Level.init(levelPack : LevelPack, json : [String : AnyObject]) -&gt; LevelPack.Level?:LevelPackLevel.swift">
+      </ContextState>
+      <ContextState
+         contextName = "BaseScene.didMoveToView(SKView) -&gt; ():BaseScene.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.size.height">
+            </PersistentString>
+            <PersistentString
+               value = "self.size.width">
+            </PersistentString>
+            <PersistentString
+               value = "self.xScale">
+            </PersistentString>
+            <PersistentString
+               value = "self.yScale">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LevelPackHandler.(loadFromDisc in _40FBE65D7DCFBE76F3BA6147A9CBE1FF)() -&gt; ():LevelPackHandler.swift">
+      </ContextState>
+      <ContextState
+         contextName = "GiftDescriptionLabelNode.init(parent : SKNode, reward : RewardType, value : protocol&lt;&gt;?) -&gt; GiftDescriptionLabelNode:GiftDescriptionLabelNode.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "String(value!)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LevelBlockNode.init(parent : SKNode, block : Block) -&gt; LevelBlockNode:LevelBlockNode.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.position.y">
+            </PersistentString>
+            <PersistentString
+               value = "self.size.width">
+            </PersistentString>
+            <PersistentString
+               value = "self.position.x">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

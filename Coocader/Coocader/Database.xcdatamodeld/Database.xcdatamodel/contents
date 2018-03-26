@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="9525" systemVersion="15D21" minimumToolsVersion="Xcode 7.0">
+    <entity name="Level" syncable="YES">
+        <attribute name="completed" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="dateCompleted" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="levelId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="levelPackId" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="LevelPack" syncable="YES">
+        <attribute name="buyed" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="id" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Level" positionX="214" positionY="-13" width="128" height="105"/>
+        <element name="LevelPack" positionX="216" positionY="18" width="128" height="75"/>
+    </elements>
+</model>

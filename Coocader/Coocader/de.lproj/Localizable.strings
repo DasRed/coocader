@@ -1,0 +1,60 @@
+"Endless Game" = "Endlosspiel";
+"Level Modus" = "Level Modus";
+"Game Center" = "Game Center";
+"Werbung entfernen" = "Werbung entfernen";
+"Einkäufe wiederherstellen" = "Käufe wiederherstellen";
+
+"Bitte aktiviere In-App Käufe in den Einstellungen" = "Bitte aktivieren In-App-Käufe in den Einstellungen";
+"In-App Käufe sind deaktiviert" = "In-App-Käufe sind nicht aktiviert";
+"Okay" = "Okay";
+
+"Punkte" = "Punkte";
+
+"difficult-0" = "Angsthasen";
+"difficult-1" = "Leicht";
+"difficult-2" = "Normal";
+"difficult-3" = "Schwer";
+"difficult-4" = "Superhelden";
+
+"Ja" = "Ja";
+"Nein" = "Nein";
+
+"Du hast gewonnen!" = "DU HAST GEWONNEN!";
+"Du hast verloren!" = "Du hast verloren!";
+"Möchtest du noch einmal spielen?" = "Möchtest du noch einmal spielen?";
+
+"Möchtest du wirklich aufhören zu spielen?" = "Möchtest du wirklich aufhören zu spielen?";
+"Deine Punkte werden nicht gespeichert!" = "Deine Punkte werden nicht gespeichert!";
+"Der Levelfortschritt wird nicht gespeichert!" = "Der Levelfortschritt wird nicht gespeichert!";
+"Möchtest du das nächste Level spielen" = "Möchtest du das nächste Level spielen?";
+"Alle Level in diesem Levelpack sind abgeschlossen" = "Alle Level im Levelpaket sind abgeschlossen.";
+
+"reward-0" = "Warten";
+"reward-1" = "Eilig";
+
+"reward-2" = "Langsamer";
+"reward-3" = "Schneller";
+
+"reward-4" = "Angst";
+"reward-5" = "Mut";
+
+"reward-6" = "Zeilenzerstörer";
+"reward-7" = "Bombe";
+"reward-8" = "Todeslinie";
+"reward-8-value" = "Todeslinie für %.01f Sekunden";
+"reward-9" = "Spektralschuss";
+"reward-9-value" = "Spektralschuss für %.01f Sekunden";
+
+"Kaufen" = "Kaufen";
+"Spielen" = "Spielen";
+
+"Diese Levelpakete müssen abgeschloßen werden:" = "Diese Levelpakete müssen abgeschloßen werden:";
+"Diese Level müssen abgeschloßen werden:" = "Diese Level müssen abgeschloßen werden:";
+
+"Level" = "Level";
+"weitere X Level verfügbar" = "weitere %i Level verfügbar";
+"x von Y Levels abgeschlossen" = "%i von %i Levels abgeschlossen";
+
+"Die Zeit ist abgelaufen." = "Die Zeit ist abgelaufen.";
+"Möchtest du ohne Zeitlimit weiterspielen?" = "Möchtest du ohne Zeitlimit weiterspielen?";
+"Spiel beenden" = "Spiel beenden";

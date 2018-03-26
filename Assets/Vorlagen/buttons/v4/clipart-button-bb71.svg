@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="407.28125" height="94.4375" id="svg2" version="1.1" inkscape:version="0.48+devel r" style="enable-background:new" sodipodi:docname="Nouveau document 1">
+  <defs id="defs4">
+    <linearGradient id="linearGradient3906">
+      <stop style="stop-color:#bafdff;stop-opacity:1" offset="0" id="stop3908"/>
+      <stop style="stop-color:#b5fcff;stop-opacity:0;" offset="1" id="stop3910"/>
+    </linearGradient>
+    <linearGradient id="linearGradient3878">
+      <stop id="stop3880" offset="0" style="stop-color:#ffffff;stop-opacity:1;"/>
+      <stop id="stop3882" offset="1" style="stop-color:#ffffff;stop-opacity:0;"/>
+    </linearGradient>
+    <linearGradient id="linearGradient3850">
+      <stop style="stop-color:#0e3242;stop-opacity:1" offset="0" id="stop3852"/>
+      <stop style="stop-color:#4fa5e0;stop-opacity:1" offset="1" id="stop3854"/>
+    </linearGradient>
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient3850" id="linearGradient3856" x1="375.64285" y1="688.93365" x2="375.64285" y2="778.3291" gradientUnits="userSpaceOnUse"/>
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient3878" id="linearGradient3876" x1="356.04654" y1="727.36139" x2="356.04654" y2="695.02332" gradientUnits="userSpaceOnUse" gradientTransform="translate(0,43.436559)"/>
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient3878" id="linearGradient3886" gradientUnits="userSpaceOnUse" x1="380.29019" y1="694.01056" x2="380.29019" y2="728.35834"/>
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient3906" id="linearGradient3912" gradientUnits="userSpaceOnUse" gradientTransform="translate(0,43.436559)" x1="356.04654" y1="727.36139" x2="356.04654" y2="701.06482"/>
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient3850" id="linearGradient3923" gradientUnits="userSpaceOnUse" x1="375.64285" y1="688.93365" x2="375.64285" y2="778.3291"/>
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient3878" id="linearGradient3925" gradientUnits="userSpaceOnUse" x1="380.29019" y1="694.01056" x2="380.29019" y2="728.35834"/>
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient3906" id="linearGradient3927" gradientUnits="userSpaceOnUse" gradientTransform="translate(0,43.436559)" x1="356.04654" y1="727.36139" x2="356.04654" y2="701.06482"/>
+  </defs>
+  <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="0.7" inkscape:cx="-118.2749" inkscape:cy="70.581291" inkscape:document-units="px" inkscape:current-layer="layer2" showgrid="false" fit-margin-top="0" fit-margin-left="0" fit-margin-right="0" fit-margin-bottom="0" inkscape:window-width="1669" inkscape:window-height="994" inkscape:window-x="0" inkscape:window-y="27" inkscape:window-maximized="1"/>
+  <g inkscape:label="Calque 1" inkscape:groupmode="layer" id="layer1" transform="translate(-175.65625,-686)"/>
+  <g inkscape:groupmode="layer" id="layer2" inkscape:label="Calque" transform="translate(-175.65625,-686)">
+    <g id="g3918">
+      <rect ry="45.730892" y="687.48846" x="177.12625" height="91.461784" width="404.31894" id="rect3080" style="color:#000000;fill:url(#linearGradient3923);fill-opacity:1;fill-rule:nonzero;stroke:#e2e3db;stroke-width:2.96679044;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"/>
+      <rect style="color:#000000;fill:url(#linearGradient3925);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.93555236;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" id="rect3884" width="361.19394" height="32.894409" x="198.96782" y="693.72577" ry="16.447205"/>
+      <rect ry="16.447205" y="737.16235" x="198.96782" height="32.894409" width="361.19394" id="rect3860" style="color:#000000;fill:url(#linearGradient3927);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.93555236;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"/>
+    </g>
+  </g>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Open Clip Art Library</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>button</dc:title>
+        <dc:date>2010-11-19T19:55:15</dc:date>
+        <dc:description/>
+        <dc:source>http://openclipart.org/detail/96805/button-by-yves_guillou-96805</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>yves_guillou</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>aqua</rdf:li>
+            <rdf:li>button</rdf:li>
+            <rdf:li>clip art</rdf:li>
+            <rdf:li>clipart</rdf:li>
+            <rdf:li>glossy</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
